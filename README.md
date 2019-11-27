@@ -32,7 +32,7 @@ the preview it looks like one line </p>
 
 <i> Make me italicized </i>
 
-<a href= "Turn this entire line of text into a link that goes to hstat.org" > "hstat.org" </a>
+<a href= "hstat.org" > "Turn this entire line of text into a link that goes to hstat.org" </a>
 
 Turn this entire line of text into code
 
