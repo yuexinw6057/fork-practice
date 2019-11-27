@@ -8,10 +8,10 @@
 
 ---
 
-Make me a heading size 1
-Make me a heading size 3
+<h1> Make me a heading size 1 </h1>
+<h3> Make me a heading size 3 </h3>
 
-Put a line BELOW me!
+<u>Put a line BELOW me! <u>
 
 
 
