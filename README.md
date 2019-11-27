@@ -12,22 +12,21 @@
 <h3> Make me a heading size 3 </h3>
 
 <ins> Put a line BELOW me! <ins>
-
-
-
 Put a line ABOVE me!
 
-Make
-these
-words
-into
-an
-unordered
-list
+<ul> 
+    <li> Make </li>
+    <li> these </li>
+    <li> words </li>
+    <li> into </li>
+    <li> an </li>
+    <li> unordered </li>
+    <li> list </li>
+</ul>
 
-I want this to be a block of text
-that takes up three lines but on
-the preview it looks like one line
+<p> I want this to be a block of text 
+that takes up three lines but on 
+the preview it looks like one line </p>
 
 Make me bold
 
