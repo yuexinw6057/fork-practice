@@ -12,6 +12,7 @@
 <h3> Make me a heading size 3 </h3>
 
 <ins> Put a line BELOW me! <ins>
+
 Put a line ABOVE me!
 
 <ul> 
@@ -34,12 +35,14 @@ the preview it looks like one line </p>
 
 <a href= "hstat.org" > "Turn this entire line of text into a link that goes to hstat.org" </a>
 
-Turn this entire line of text into code
+<code>Turn this entire line of text into code </code>
 
 Turn the entire block of code below into a code snippet with HTML syntax highlighting.
 
 <ol>
+    <!--
     <li>Item 1</li>
     <li>Item 2</li>
     <li>Item 3</li>
+    -->
 </ol>
