@@ -28,11 +28,11 @@ Put a line ABOVE me!
 that takes up three lines but on 
 the preview it looks like one line </p>
 
-Make me bold
+<b> Make me bold </b>
 
-Make me italicized
+<i> Make me italicized </i>
 
-Turn this entire line of text into a link that goes to hstat.org
+<a href= "Turn this entire line of text into a link that goes to hstat.org" > "hstat.org" </a>
 
 Turn this entire line of text into code
 
